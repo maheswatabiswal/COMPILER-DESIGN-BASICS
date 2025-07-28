@@ -51,3 +51,4 @@ It serves as the foundation for further compiler stages like syntax analysis and
 
 *OUTPUT*:
 
+<img width="1917" height="1016" alt="Image" src="https://github.com/user-attachments/assets/cef629ab-cd86-4f84-b46a-43c69adf3720" />
